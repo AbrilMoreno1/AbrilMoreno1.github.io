@@ -24,16 +24,15 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
-
+author: Janet Abril Moreno Cab 
+author-pic:
+soy Abril tengo 18 años, soy de Cancún estudio en la iniversidad del caribe la carrera de innovacion 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
+email: janetmoreno573@gmail.com # Add your Email address
+phone: 9983092263
+website: https://AbrilMoreno1.github.io # Add your website
+linkedin: Abril # Add your Linkedin handle
+github: Abril # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
